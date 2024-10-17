@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PuzzleContest
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PuzzleContest\ here.\r\n\r\n\ @author\ Botero\ Garcia,\ Santiago.\ Perilla\ Quintero,\ Laura\ Natalia.\r\n\ @version\ October\ 04\ 2024\r\n
+comment1.params=starting\ ending
+comment1.target=PuzzleContest(char[][],\ char[][])
+comment1.text=\r\n\ Creates\ a\ puzzle\ given\ the\ starting\ board\ and\ the\ ending\ board.\r\n\ @param\ starting\ \ \ \ \ \ Starting\ matrix.\r\n\ @param\ ending\ \ \ \ \ \ \ \ Ending\ matrix.\r\n
+comment2.params=
+comment2.target=boolean\ solve()
+comment2.text=\r\n\ Gets\ if\ the\ given\ puzzle\ is\ solvable.\r\n\ @return\ \ \ \ \ \ If\ the\ puzzle\ is\ solvable\ return\ true,\ otherwise\ return\ false.\r\n
+comment3.params=matrix
+comment3.target=java.lang.String\ matrixToString(char[][])
+comment3.text=\r\n\ Gets\ a\ String\ representation\ from\ the\ given\ matrix.\r\n\ @param\ matrix\ \ \ \ State\ of\ the\ board.\r\n\ @return\ \ \ \ \ \ \ \ \ \ A\ string\ representing\ the\ matrix.\r\n
+comment4.params=
+comment4.target=void\ simulate()
+comment4.text=\r\n\ If\ the\ puzzle\ is\ solvable,\ the\ board\ tilts\ till\ the\ current\ state\ of\ the\ board\ gets\ to\ the\ ending\ matrix.\r\n
+comment5.params=
+comment5.target=void\ makeInvisible()
+comment6.params=
+comment6.target=void\ finishGame()
+comment7.params=
+comment7.target=char[][]\ getActualArrangement()
+numComments=8
