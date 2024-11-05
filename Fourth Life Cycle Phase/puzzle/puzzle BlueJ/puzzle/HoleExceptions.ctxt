@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HoleExceptions
+comment0.text=\r\n\ The\ HoleExceptions\ class\ represents\ exceptions\ related\ to\ holes\ on\ the\ board.\r\n\r\n\ @author\ Botero\ Garcia,\ Santiago.\ Perilla\ Quintero,\ Laura\ Natalia.\r\n\ @version\ November\ 03\ 2024\r\n
+comment1.params=message
+comment1.target=HoleExceptions(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ HoleExceptions\r\n\ @param\ message\ The\ message\ that\ describes\ the\ exception\r\n
+numComments=2

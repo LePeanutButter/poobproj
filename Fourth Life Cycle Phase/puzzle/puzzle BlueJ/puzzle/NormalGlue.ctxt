@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NormalGlue
+comment0.text=\r\n\ Represents\ a\ common\ glue\ type\ that\ allows\ a\ tile\ to\ tilt\ on\ the\ board.\r\n\r\n\ @author\ Botero\ Garcia,\ Santiago.\ Perilla\ Quintero,\ Laura\ Natalia.\r\n\ @version\ October\ 28\ 2024\r\n
+comment1.params=
+comment1.target=NormalGlue()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ NormalGlue\r\n
+comment2.params=
+comment2.target=boolean\ canTilt()
+comment2.text=\r\n\ Indicates\ if\ a\ tile\ with\ NormalGlue\ can\ be\ tilted.\r\n\ \r\n\ @return\ true,\ as\ NormalGlue\ allows\ free\ tilting.\r\n
+numComments=3

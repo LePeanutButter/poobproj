@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SuperGlue
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SuperTile\ here.\r\n\ \r\n\ @author\ Botero\ Garcia,\ Santiago.\ Perilla\ Quintero,\ Laura\ Natalia.\r\n\ @version\ October\ 28\ 2024\r\n
+comment1.params=
+comment1.target=SuperGlue()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SuperGlue\r\n
+comment2.params=
+comment2.target=boolean\ canTilt()
+comment2.text=\r\n\ Indicates\ if\ a\ tile\ with\ SuperGlue\ can\ be\ tilted.\r\n\ \r\n\ @return\ true,\ as\ SuperGlue\ allows\ free\ tilting.\r\n
+numComments=3

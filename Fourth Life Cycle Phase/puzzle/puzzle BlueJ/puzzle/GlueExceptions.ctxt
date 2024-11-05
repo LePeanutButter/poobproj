@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GlueExceptions
+comment0.text=\r\n\ GlueExceptions\ class,\ a\ custom\ exception\ to\ handle\ specific\ errors\ related\ to\ the\ use\ of\ glue\r\n\ in\ the\ simulator.\r\n\ \r\n\ @author\ Botero\ Garcia,\ Santiago.\ Perilla\ Quintero,\ Laura\ Natalia.\r\n\ @version\ November\ 03\ 2024\r\n
+comment1.params=message
+comment1.target=GlueExceptions(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ the\ GlueExceptions\ class.\r\n\ \r\n\ @param\ message\ The\ error\ message\ describing\ the\ cause\ of\ the\ exception.\r\n
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Glue
+comment0.text=\r\n\ Abstract\ class\ representing\ glue\ in\ the\ puzzle\ game.\r\n\r\n\ @author\ Botero\ Garcia,\ Santiago.\ Perilla\ Quintero,\ Laura\ Natalia.\r\n\ @version\ November\ 03\ 2024\r\n
+comment1.params=
+comment1.target=Glue()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Glue\r\n
+comment2.params=
+comment2.target=boolean\ canTilt()
+comment2.text=\r\n\ Abstract\ method\ that\ indicates\ if\ a\ tile\ can\ be\ tilted.\r\n\ @return\ true\ if\ the\ tile\ can\ be\ tilted,\ false\ otherwise.\r\n
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PuzzleExceptions
+comment0.text=\r\n\ Class\ that\ represents\ exceptions\ related\ to\ the\ puzzle.\r\n\r\n\ @author\ Botero\ Garcia,\ Santiago.\ Perilla\ Quintero,\ Laura\ Natalia.\r\n\ @version\ November\ 03\ 2024\r\n
+comment1.params=message
+comment1.target=PuzzleExceptions(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PuzzleExceptions.\r\n\r\n\ @param\ message\ The\ error\ message\ associated\ with\ the\ exception.\r\n
+numComments=2

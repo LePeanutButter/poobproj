@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PuzzleContestC3Test
+comment0.text=\r\n\ The\ test\ class\ PuzzleC2Test.\r\n\r\n\ @author\ Botero\ Garcia,\ Santiago.\ Perilla\ Quintero,\ Laura\ Natalia.\r\n\ @version\ October\ 05\ 2024\r\n
+comment1.params=
+comment1.target=void\ shouldReturnTrueWhenStartingMatrixSolveEndingMatrix()
+comment1.text=\r\n\ Tests\ if\ the\ Puzzle\ constructor\ initializes\ with\ valid\ dimensions.\r\n\ It\ should\ not\ throw\ any\ exceptions.\r\n
+comment2.params=
+comment2.target=void\ shouldReturnFalseWhenStartingMatrixDoesNotSolveEndingMatrix()
+comment3.params=
+comment3.target=void\ shouldTiltLeftAndDownWhenSimulating()
+comment4.params=
+comment4.target=void\ shouldntTiltWhenSimulatingSinceItCannotBeSolved()
+numComments=5

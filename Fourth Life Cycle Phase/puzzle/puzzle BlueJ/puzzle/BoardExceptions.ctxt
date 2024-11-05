@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BoardExceptions
+comment0.text=\r\n\ The\ BoardExceptions\ class\ represents\ exceptions\ that\ can\ occur\ while\ \r\n\ interacting\ with\ the\ game\ board.\r\n\r\n\ @author\ Botero\ Garcia,\ Santiago.\ Perilla\ Quintero,\ Laura\ Natalia.\r\n\ @version\ November\ 03\ 2024\r\n
+comment1.params=message
+comment1.target=BoardExceptions(java.lang.String)
+comment1.text=\r\n\ Constructs\ a\ BoardExceptions\ instance\ with\ a\ specified\ error\ message.\r\n\r\n\ @param\ message\ The\ detail\ message\ explaining\ the\ exception.\r\n
+numComments=2

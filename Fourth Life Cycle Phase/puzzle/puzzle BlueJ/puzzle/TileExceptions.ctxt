@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TileExceptions
+comment0.text=\r\n\ Class\ that\ represents\ specific\ exceptions\ related\ to\ tiles\r\n\ in\ the\ puzzle.\r\n\r\n\ @author\ Botero\ Garcia,\ Santiago.\ Perilla\ Quintero,\ Laura\ Natalia.\r\n\ @version\ November\ 03\ 2024\r\n
+comment1.params=message
+comment1.target=TileExceptions(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TileExceptions.\r\n\ @param\ message\ Error\ message\ to\ be\ displayed\ when\ the\ exception\ is\ thrown.\r\n
+numComments=2

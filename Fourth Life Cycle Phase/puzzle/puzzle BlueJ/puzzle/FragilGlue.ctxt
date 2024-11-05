@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FragilGlue
+comment0.text=\r\n\ FragilGlue\ class,\ a\ special\ type\ of\ glue\ that\ supports\ only\ one\ attempt\ of\ tilting.\r\n\ \r\n\ @author\ Botero\ Garcia,\ Santiago.\ Perilla\ Quintero,\ Laura\ Natalia.\r\n\ @version\ October\ 28\ 2024\r\n
+comment1.params=
+comment1.target=FragilGlue()
+comment1.text=\r\n\ Default\ constructor\ for\ FragilGlue.\r\n\ Initializes\ a\ new\ instance\ of\ FragilGlue\ using\ the\ superclass\ constructor.\r\n
+comment2.params=
+comment2.target=boolean\ canTilt()
+comment2.text=\r\n\ Determines\ if\ the\ tile\ can\ be\ tilted.\r\n\ @return\ false\ always,\ as\ FragilGlue\ does\ not\ allow\ additional\ tilts.\r\n
+numComments=3

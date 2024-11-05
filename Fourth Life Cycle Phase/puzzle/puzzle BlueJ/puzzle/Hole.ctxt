@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Hole
+comment0.text=\r\n\ The\ Hole\ class\ represents\ a\ hole\ on\ the\ simulator\ board.\r\n\r\n\ @author\ Botero\ Garcia,\ Santiago.\ Perilla\ Quintero,\ Laura\ Natalia.\r\n\ @version\ November\ 03\ 2024\r\n
+comment1.params=row\ column\ xPosition\ yPosition
+comment1.target=Hole(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ the\ Hole\ class.\r\n\ \r\n\ @param\ row\ The\ row\ where\ the\ hole\ is\ located.\r\n\ @param\ column\ The\ column\ where\ the\ hole\ is\ located.\r\n\ @param\ xPosition\ The\ x\ position\ of\ the\ hole\ in\ the\ interface.\r\n\ @param\ yPosition\ The\ y\ position\ of\ the\ hole\ in\ the\ interface.\r\n\ @throws\ HoleExceptions\ If\ the\ hole\ is\ out\ of\ the\ board's\ bounds.\r\n
+comment2.params=
+comment2.target=void\ makeVisible()
+comment2.text=\r\n\ Makes\ the\ hole\ visible.\r\n
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment3.text=\r\n\ Makes\ the\ hole\ invisible.\r\n
+comment4.params=xPosition
+comment4.target=void\ moveHorizontal(int)
+comment4.text=\r\n\ Moves\ the\ hole\ horizontally.\r\n\ \r\n\ @param\ xPosition\ Amount\ of\ horizontal\ movement.\r\n
+numComments=5

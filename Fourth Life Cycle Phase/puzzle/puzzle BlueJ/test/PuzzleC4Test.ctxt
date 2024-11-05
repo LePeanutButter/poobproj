@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=PuzzleC4Test
+comment0.text=\r\n\ The\ test\ class\ PuzzleC4Test.\r\n\r\n\ @author\ Botero\ Garcia,\ Santiago.\ Perilla\ Quintero,\ Laura\ Natalia.\r\n\ @version\ November\ 3\ 2024\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ shouldNotBeAbleToRelocate()
+comment3.params=
+comment3.target=void\ shouldNotBeAbleToDelete()
+comment4.params=
+comment4.target=void\ shouldNotBeAbleToTilt()
+comment5.params=
+comment5.target=void\ shouldNotAbleToBeGlued()
+comment6.params=
+comment6.target=void\ shouldNotFallThroughTheHole()
+comment7.params=
+comment7.target=void\ shouldDeleteFragilGlueAfterTilt()
+comment8.params=
+comment8.target=void\ shouldNotMoveTheTile()
+comment9.params=
+comment9.target=void\ shouldMoveTheTileIfGlued()
+numComments=10

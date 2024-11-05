@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=NormalTile
+comment0.text=\r\n\ The\ NormalTile\ class\ represents\ a\ normal\ tile\r\n\r\n\ @author\ Botero\ Garcia,\ Santiago.\ Perilla\ Quintero,\ Laura\ Natalia.\r\n\ @version\ October\ 23\ 2024\r\n
+comment1.params=row\ column\ color\ xPosition\ yPosition
+comment1.target=NormalTile(int,\ int,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ NormalTile\ that\ initializes\ a\ normal\ tile\ at\ a\ specific\ position\ and\ color.\r\n\ \r\n\ @param\ row\ The\ row\ where\ the\ normal\ tile\ is\ located.\r\n\ @param\ column\ The\ column\ where\ the\ normal\ tile\ is\ located.\r\n\ @param\ color\ The\ color\ of\ the\ normal\ tile.\r\n\ @param\ xPosition\ The\ x\ position\ of\ the\ normal\ tile\ in\ the\ interface.\r\n\ @param\ yPosition\ The\ y\ position\ of\ the\ normal\ tile\ in\ the\ interface.\r\n\ @throws\ BoardExceptions\ If\ the\ normal\ tile\ is\ out\ of\ the\ board's\ bounds.\r\n
+comment2.params=tile
+comment2.target=NormalTile(Tile)
+comment2.text=\r\n\ Copy\ constructor\ for\ creating\ a\ NormalTile\ from\ another\ Tile.\r\n\ \r\n\ @param\ tile\ The\ tile\ from\ which\ attributes\ will\ be\ copied.\r\n
+comment3.params=
+comment3.target=boolean\ canMove()
+comment3.text=\r\n\ Indicates\ whether\ the\ normal\ tile\ can\ move.\r\n\ \r\n\ @return\ true\ as\ a\ normal\ tile\ can\ be\ moved.\r\n
+comment4.params=
+comment4.target=boolean\ canBeDeleted()
+comment4.text=\r\n\ Indicates\ whether\ the\ normal\ tile\ can\ be\ deleted.\r\n\ \r\n\ @return\ true\ as\ a\ normal\ tile\ can\ be\ deleted.\r\n
+comment5.params=
+comment5.target=boolean\ canBeTilted()
+comment5.text=\r\n\ Indicates\ whether\ the\ normal\ tile\ can\ be\ tilted.\r\n\ \r\n\ @return\ true\ as\ a\ normal\ tile\ can\ be\ tilted.\r\n
+comment6.params=
+comment6.target=boolean\ canBeGlued()
+comment6.text=\r\n\ Indicates\ whether\ glue\ can\ be\ applied\ to\ the\ normal\ tile.\r\n\ \r\n\ @return\ true\ as\ glue\ can\ be\ applied\ to\ a\ normal\ tile.\r\n
+comment7.params=
+comment7.target=boolean\ canFall()
+comment7.text=\r\n\ Indicates\ whether\ the\ normal\ tile\ can\ fall.\r\n\ \r\n\ @return\ true\ as\ a\ normal\ tile\ can\ fall.\r\n
+numComments=8
